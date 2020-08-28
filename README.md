@@ -4,9 +4,6 @@
 **bangden07/bangden07** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. 
 
 Here are some ideas to get you started: -->
-
-![BangDen07](https://github-readme-stats.vercel.app/api?username=bangden07&show_icons=true)
-
 ![BangDen07](https://github-readme-stats.vercel.app/api?username=bangden07&show_icons=true&layout=compact)
 
 ![BangDen07](https://github-readme-stats.vercel.app/api/top-langs/?username=bangden07&show_icons=true&layout=compact)
