@@ -5,6 +5,8 @@
 
 Here are some ideas to get you started: -->
 
+![BangDen07](https://github-readme-stats.vercel.app/api?username=bangden07&show_icons=true)
+
 - 🔭 I’m currently working on an open source project with an unusual idea.
 - 🌱 I’m currently learning React, JS, CSS, SysAdmin, and more.
 - 👯 I’m looking to collaborate on with the open source developer community.
