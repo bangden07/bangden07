@@ -8,8 +8,8 @@ There's nothing special about me, and I'm just a script kiddie constantly learni
   <img src="https://github-readme-stats.vercel.app/api?username=bangden07&show_icons=true&theme=react&count_private=true&include_all_commits=true" alt="Bang Den" align="right" />
 </a>
 
-- [![My Website](https://img.shields.io/badge/Website-bangden.me-brightgreen)](https://bangden.me) &nbsp;
-- [![Blog](https://img.shields.io/badge/Blog-bangden.space-brightgreen)](https://bangden.space) &nbsp;
+- [![My Website](https://img.shields.io/badge/Website-en8n.me-brightgreen)](https://en8n.me) &nbsp;
+- [![Blog](https://img.shields.io/badge/Blog-deny.biz.id-brightgreen)](https://deny.biz.id) &nbsp;
 - [![Twitter follow @bangden07](https://img.shields.io/twitter/follow/bangden07?style=social)](https://twitter.com/bangden07)
 - 😄 Pronouns: He/him
 - Fell free to DM me on Twitter 👌
