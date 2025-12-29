@@ -17,6 +17,8 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=bangden07&label=Profile%20views&color=0e75b6&style=flat-square" alt="bangden07" /></p>
 <br>
 
+![GitHub Stats](https://github-readme-stats-fast.vercel.app/api/streak?username=bangden07&theme=github_dark)
+
 <h2 align="left" id="bangden07-tech">Favorite Tech</h2>
 <table align="center">
   <tr>
@@ -98,4 +100,3 @@
   </tr>
     
 </table>
-![GitHub Stats](https://github-readme-stats-fast.vercel.app/api/streak?username=bangden07&theme=github_dark)
