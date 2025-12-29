@@ -4,10 +4,10 @@
 </p>
 <br>
 
-![GitHub Stats](https://github-readme-stats-fast.vercel.app/api?username=bangden07&show_icons=true&theme=github_dark)
-![GitHub Stats](https://github-readme-stats-fast.vercel.app/api/streak?username=bangden07&theme=github_dark)
+![GitHub Stats](https://github-readme-stats-fast.vercel.app/api?username=bangden07&show_icons=true&theme=github_dark) ![GitHub Stats](https://github-readme-stats-fast.vercel.app/api/top-langs/?username=bangden07&layout=compact&theme=github_dark)
 
-![GitHub Stats](https://github-readme-stats-fast.vercel.app/api/top-langs/?username=bangden07&layout=compact&theme=github_dark)
+
+
   
 - [![My Website](https://img.shields.io/badge/Website-en8n.me-brightgreen)](https://en8n.me) &nbsp;
 - [![Blog](https://img.shields.io/badge/Blog-deny.biz.id-brightgreen)](https://deny.biz.id) &nbsp;
@@ -98,3 +98,4 @@
   </tr>
     
 </table>
+![GitHub Stats](https://github-readme-stats-fast.vercel.app/api/streak?username=bangden07&theme=github_dark)
